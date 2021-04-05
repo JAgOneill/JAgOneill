@@ -2,7 +2,7 @@
 I am a <b> Full Stack java Developer :computer:</b> with more than <b>2 </b>years of web development experience in building high-performance  secured web application using <b> Java, SpringBoot, Hibernate, My-Sql, Angular ,Restful web Services </b>.<br>
 Recently i have Recieved <b>My AWS Solution Architect Certificate 
 :cloud: </b><br>
-I am Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance <br>
+I am Specialized in building a beautiful, impactful, and purposeful user experience without sacrificing quality and performance <br>
 Mainly focus on Back End Development but also available for Front End Development with Angular . <br>I am Proficient in Git and JIRA
 
 <b> My Technology stack</b><br>
