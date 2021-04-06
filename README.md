@@ -3,7 +3,7 @@ I am a <b> Full Stack java Developer :computer:</b> with more than <b>2 </b>year
 Recently i have Recieved <b>My AWS Solution Architect Certificate 
 :cloud: </b><br>
 I am Specialized in building a beautiful, impactful, and purposeful user experience without sacrificing quality and performance <br>
-Mainly focus on Back End Development but also available for Front End Development with Angular . <br>I am Proficient in Git and JIRA
+Mainly focus on Back End Development but also available for Front End Development with Angular . <br>I am Proficient in Git and JIRA,JENKIN,AWS
 
 <b> My Technology stack</b><br>
 
