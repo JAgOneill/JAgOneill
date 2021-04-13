@@ -5,7 +5,7 @@ Recently i have Recieved <b>My AWS Solution Architect Certificate
 My specialty in building a beautiful, impactful, and purposeful user experience without sacrificing quality and performance <br>
 Mainly focus on Back End Development but also available for Front End Development with Angular . <br>I am proficient in Git,JIRA,JENKIN And AWS
 
-<b> My Technology stack</b><br>
+<b> Technology stack</b><br>
 
 <b>:cloud: 1 Amazon Web Service </b> <br>
 :point_right:  IAM, EC2, Load Balancing, Auto Scaling, EBS, Route 53, RDS, ElastiCache, S3<br>
