@@ -9,8 +9,8 @@ Mainly focus on Back End Development but also available for Front End Developmen
 
 <b>:cloud: 1) Amazon Web Service </b> <br>
 :point_right:  IAM, EC2, Load Balancing, Auto Scaling, EBS, Route 53, RDS, ElastiCache, S3<br>
-:fire:  i can Properly deploy an application using : AWS Elastic Beanstalk, CICD, CodeCommit, CodePipeline, CodeBuild, CodeDeploy<br>
-:boom:i follow all AWS Security best practices: KMS, Encryption SDK, SSM Parameter Store, IAM Policies<br><br>
+:fire:  I can properly deploy an application using : AWS Elastic Beanstalk, CICD, CodeCommit, CodePipeline, CodeBuild, CodeDeploy<br>
+:boom:I follow all AWS Security best practices: KMS, Encryption SDK, SSM Parameter Store, IAM Policies<br><br>
 <b> :blush: 2) JAVA</b><br>
 :point_right: i have developed Spring applications using best practices such as SOLID OOP, GitHub, Test Driven Development, and Continuous Integration Testing<br>
 :wink:i can deconstruct a monolith into Spring Boot Microservices, i can deploy and manage Spring Boot Microservices with Spring Cloud<br>
