@@ -13,7 +13,7 @@ Mainly focus on Back End Development but also available for Front End Developmen
 :boom:I follow all AWS Security best practices: KMS, Encryption SDK, SSM Parameter Store, IAM Policies<br><br>
 <b> :blush: 2) JAVA</b><br>
 :point_right: Developed Spring applications using best practices such as SOLID OOP, GitHub, Test Driven Development, and Continuous Integration Testing<br>
-:wink: Deconstruct a monolith into Spring Boot Microservices, i can deploy and manage Spring Boot Microservices with Spring Cloud<br>
+:wink: Deconstructed  monolith into Spring Boot Microservices, i can deploy and manage Spring Boot Microservices with Spring Cloud<br>
 :ok_woman: Protect apps Against Common Web Security Vulnerabilities (OWASP)<br>
 
 <b> 3) Angular </b><br>
