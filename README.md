@@ -14,7 +14,7 @@ Mainly focus on Back End Development but also available for Front End Developmen
 <b> :blush: 2) JAVA</b><br>
 :point_right: Developed Spring applications using best practices such as SOLID OOP, GitHub, Test Driven Development, and Continuous Integration Testing<br>
 :wink: Deconstructed  monolith into Spring Boot Microservices, i can deploy and manage Spring Boot Microservices with Spring Cloud<br>
-:ok_woman: Protect apps Against Common Web Security Vulnerabilities (OWASP)<br>
+:ok_woman: Protect apps Against Common Web Security Vulnerabilities (OWASP) <br>
 
 <b>  🔭 3) Angular </b><br>
 :information_desk_person: Built responsive and reactive front-ends with <b>Angular</b>. Ensure that applications & REST API's are secured using industry standard techniques like JWTs, HttpOnly cookies.
