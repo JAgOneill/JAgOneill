@@ -3,14 +3,9 @@ I am a <b> Full Stack java Developer :computer:</b> with more than <b>2 </b>year
 Recently i have Recieved <b>My AWS Solution Architect Certificate 
 :cloud: </b><br>
 My specialty in building a beautiful, impactful, and purposeful user experience without sacrificing quality and performance <br>
-Mainly focus on Back End Development but also available for Front End Development with Angular . <br>I am proficient in Git,JIRA,JENKIN And AWS
+Mainly focus on Back End Development but also available for Front End Development with Angular . <br>I am proficient in Git,JIRA,JENKIN
 
 <b>  Technology stack </b><br>
-
-<b>:cloud: 1) Amazon Web Service </b> <br>
-:point_right:  IAM, EC2, Load Balancing, Auto Scaling, EBS, Route 53, RDS, ElastiCache, S3<br>
-:fire:  Experienced in properly deploying applications using: AWS Elastic Beanstalk, CICD, CodeCommit, CodePipeline, CodeBuild, CodeDeploy<br>
-:boom:I follow all AWS Security best practices: KMS, Encryption SDK, SSM Parameter Store, IAM Policies<br><br>
 <b> :blush: 2) JAVA</b><br>
 :point_right: Developed Spring applications using best practices such as SOLID OOP, GitHub, Test Driven Development, and Continuous Integration Testing<br>
 :wink: Deconstructed  monolith into Spring Boot Microservices, i can deploy and manage Spring Boot Microservices with Spring Cloud<br>
