@@ -11,7 +11,7 @@ Mainly focus on Back End Development but also available for Front End Developmen
 
 <b> :blush: 2) Spring & Spring Security </b><br>
 :wink: Secure Spring Boot Actuator Endpoints & Add DevOps functionality with Spring Boot Actuator Endpoints<br>
-<br>Apply Best Practices by integrating a Service Layer<br>
+:point_right: Apply Best Practices by integrating a Service Layer<br>
 :ok_woman: Protect apps Against Common Web Security Vulnerabilities (OWASP) <br>
 
 
