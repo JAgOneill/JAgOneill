@@ -6,10 +6,14 @@ My specialty in building a beautiful, impactful, and purposeful user experience 
 Mainly focus on Back End Development but also available for Front End Development with Angular . <br>I am proficient in Git,JIRA,JENKIN
 
 <b>  Technology stack </b><br>
-<b> :blush: 2) JAVA</b><br>
+<b> :blush: 1) JAVA</b><br>
 :point_right: Developed Spring applications using best practices such as SOLID OOP, GitHub, Test Driven Development, and Continuous Integration Testing<br>
+
+<b> :blush: 2) Spring & Spring Security </b><br>
 :wink: Secure Spring Boot Actuator Endpoints & Add DevOps functionality with Spring Boot Actuator Endpoints<br>
 :ok_woman: Protect apps Against Common Web Security Vulnerabilities (OWASP) <br>
+
+
 
 <b>  🔭 3) Angular </b><br>
 :information_desk_person: Built responsive and reactive front-ends with <b>Angular</b>. Ensure that applications & REST API's are secured using industry standard techniques like JWTs, HttpOnly cookies.
