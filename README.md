@@ -20,7 +20,7 @@ Mainly focus on Back End Development but also available for Front End Developmen
 :information_desk_person: Built responsive and reactive front-ends with <b>Angular</b>. Ensure that applications & REST API's are secured using industry standard techniques like JWTs, HttpOnly cookies.
 
 <b> :pray: Thanks for visiting my profile <br>
-  SEE YOU ON THE OTHER SIDE :smiley: </b>
+  SEE YOU ON THE OTHER SIDE :smiley:  </b>
 
 <!--
 **JAgOneill/JAgOneill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
